@@ -14,5 +14,8 @@
     "compiler": "google_closure",
 
     // when you create a file you want to automatically open it?
-    "open_on_min": true
+    "open_on_min": true,
+    
+    // timeout in seconds
+    "timeout": 5
 }
